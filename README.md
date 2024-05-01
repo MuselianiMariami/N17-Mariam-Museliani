@@ -16,7 +16,7 @@
 </br> 
 </br>
 <div align="center">
-<img scr="https://github.com/MuselianiMariami/Ui-kit-17/assets/137683336/5bc2151c-1c9f-4033-bb09-053cdeeaeab6" width="300">
-<img scr="https://github.com/MuselianiMariami/Ui-kit-17/assets/137683336/442f857e-a70c-4da9-8691-6a841ae6a936" width="300">
-<img scr="https://github.com/MuselianiMariami/Ui-kit-17/assets/137683336/b977d75e-193d-4c5d-9772-5e23d2ce5c93" width="300">
+<img src="https://github.com/MuselianiMariami/Ui-kit-17/assets/137683336/5bc2151c-1c9f-4033-bb09-053cdeeaeab6" width="300">
+<img src="https://github.com/MuselianiMariami/Ui-kit-17/assets/137683336/442f857e-a70c-4da9-8691-6a841ae6a936" width="300">
+<img src="https://github.com/MuselianiMariami/Ui-kit-17/assets/137683336/b977d75e-193d-4c5d-9772-5e23d2ce5c93" width="300">
 </div>
